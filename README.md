@@ -1,3 +1,3 @@
-# ChihWei-Hsu
+# Chih-Wei Hsu
 
-### This is about 
+### These are about my notes.
